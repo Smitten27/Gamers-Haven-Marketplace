@@ -4,3 +4,6 @@ Our Gamers Haven Marketplace will let users to browse & search through a wide ra
 
 # Lo-Fi Prototype
 https://drive.google.com/file/d/1mQqrr-5n82yARhcmpLgNIxnYans4uHNc/view?usp=drive_link
+
+#Figma
+https://www.figma.com/design/DrOuGcm9PrhYaE0ngmpjGA/Gamers-Haven-Marketplace?node-id=26-26&t=lyJxvQ8WZcaA3ZJK-1
