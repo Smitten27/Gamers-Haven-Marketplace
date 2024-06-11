@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1KIRK1MJZ3jMMw5wZ2FzpFKzS9x8CMXoV/view?usp=drive
 
 # Hi-Fi Prototype(Figma)
 https://www.figma.com/design/DrOuGcm9PrhYaE0ngmpjGA/Gamers-Haven-Marketplace?node-id=157-531&t=lSyxNJzZVvzJX5l8-1
+
+# Behance Profile
+https://www.behance.net/smitpatel118
